@@ -1,1 +1,3 @@
-reaction_game.rb
+require 'ruby2d'
+
+show
